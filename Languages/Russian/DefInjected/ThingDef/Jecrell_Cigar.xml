@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Jecs_TobaccoCigar.label>Сигара</Jecs_TobaccoCigar.label>
+  <Jecs_TobaccoCigar.description>Употребление сигары может вызвать никотиновую зависимость. Может быть скручен без какого-либо оборудования, на рабочем месте.</Jecs_TobaccoCigar.description>
+  <Jecs_TobaccoCigar.ingestible.ingestCommandString>Курить {0}</Jecs_TobaccoCigar.ingestible.ingestCommandString>
+  <Jecs_TobaccoCigar.ingestible.ingestReportString>Курит {0}.</Jecs_TobaccoCigar.ingestible.ingestReportString>
+
+
+</LanguageData>

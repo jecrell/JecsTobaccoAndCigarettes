@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Jecs_NicotineHigh.label>Под действием никотина</Jecs_NicotineHigh.label>
+
+
+  <!-- Nicotine addiction -->
+
+  <Jecs_NicotineTolerance.label>Толерантность к никотину</Jecs_NicotineTolerance.label>
+  <Jecs_NicotineTolerance.stages.0.label>Скрытая</Jecs_NicotineTolerance.stages.0.label>
+  <Jecs_NicotineTolerance.stages.1.label>Небольшая</Jecs_NicotineTolerance.stages.1.label>
+  <Jecs_NicotineTolerance.stages.2.label>Средняя</Jecs_NicotineTolerance.stages.2.label>
+  <Jecs_NicotineTolerance.stages.3.label>Сильная</Jecs_NicotineTolerance.stages.3.label>
+
+  <Jecs_NicotineAddiction.label>Никотиновая зависимость</Jecs_NicotineAddiction.label>
+  <Jecs_NicotineAddiction.stages.1.label>Ломка</Jecs_NicotineAddiction.stages.1.label>
+
+
+</LanguageData>

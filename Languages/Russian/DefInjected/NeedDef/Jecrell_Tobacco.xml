@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Nicotine addiction -->
+
+  <Jecs_Chemical_Nicotine.label>Никотин</Jecs_Chemical_Nicotine.label>
+  <Jecs_Chemical_Nicotine.description>Из-за развитой зависимости от никотина этот человек должен регулярно выкуривать сигарету, чтобы избежать ломки.</Jecs_Chemical_Nicotine.description>
+
+
+</LanguageData>

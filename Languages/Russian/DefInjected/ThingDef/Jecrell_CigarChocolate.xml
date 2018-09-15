@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Jecs_TobaccoCigarChocolate.label>Шоколадная сигара</Jecs_TobaccoCigarChocolate.label>
+  <Jecs_TobaccoCigarChocolate.description>Употребление шоколадной сигары может вызвать никотиновую зависимость. Может быть скручен без какого-либо оборудования, на рабочем месте. Требуется шоколад и табак.</Jecs_TobaccoCigarChocolate.description>
+  <Jecs_TobaccoCigarChocolate.ingestible.ingestCommandString>Курить {0}</Jecs_TobaccoCigarChocolate.ingestible.ingestCommandString>
+  <Jecs_TobaccoCigarChocolate.ingestible.ingestReportString>Курит {0}.</Jecs_TobaccoCigarChocolate.ingestible.ingestReportString>
+
+
+</LanguageData>

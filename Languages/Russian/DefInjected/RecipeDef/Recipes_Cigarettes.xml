@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Jecs_RollCigarPack.label>Сделать пачку сигар</Jecs_RollCigarPack.label>
+  <Jecs_RollCigarPack.description>Скрутить пять сигар для ваших никотиново-зависимых колонистов.</Jecs_RollCigarPack.description>
+  <Jecs_RollCigarPack.jobString>Скручивает сигары</Jecs_RollCigarPack.jobString>
+
+  <Jecs_RollCigarChocolatePack.label>Сделать пачку шоколадных сигар</Jecs_RollCigarChocolatePack.label>
+  <Jecs_RollCigarChocolatePack.description>Скрутить пять шоколадных сигар для ваших никотиново-зависимых колонистов.</Jecs_RollCigarChocolatePack.description>
+  <Jecs_RollCigarChocolatePack.jobString>Скручивает сигары</Jecs_RollCigarChocolatePack.jobString>
+
+  <Jecs_RollCigarettes.label>Сделать мини-упаковку сигарет</Jecs_RollCigarettes.label>
+  <Jecs_RollCigarettes.description>Скрутить пять обычных сигарет для ваших никотиново-зависимых колонистов.</Jecs_RollCigarettes.description>
+  <Jecs_RollCigarettes.jobString>Скручивает сигареты</Jecs_RollCigarettes.jobString>
+
+  <Jecs_RollCigarettePack.label>Сделать упаковку сигарет (x20)</Jecs_RollCigarettePack.label>
+  <Jecs_RollCigarettePack.description>Скрутить обычную упаковку из 20 сигарет для ваших никотиново-зависимых колонистов.</Jecs_RollCigarettePack.description>
+  <Jecs_RollCigarettePack.jobString>Скручивает сигареты</Jecs_RollCigarettePack.jobString>
+
+
+</LanguageData>

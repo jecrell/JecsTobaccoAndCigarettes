@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Jecs_NicotineHigh.stages.0.label>Под кайфом от никотина</Jecs_NicotineHigh.stages.0.label>
+  <Jecs_NicotineHigh.stages.0.description>Нету ничего лучше, как хорошая сигарета</Jecs_NicotineHigh.stages.0.description>
+
+
+  <!-- Nicotine addiction -->
+
+  <Jecs_NicotineWithdrawal.stages.1.label>Ломка от никотиновой зависимости</Jecs_NicotineWithdrawal.stages.1.label>
+  <Jecs_NicotineWithdrawal.stages.1.description>Я бы сейчас убил ради одной хорошей затяжки</Jecs_NicotineWithdrawal.stages.1.description>
+
+
+</LanguageData>

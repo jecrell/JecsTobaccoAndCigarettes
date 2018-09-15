@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Jecs_TobaccoCigarette.label>Сигарета</Jecs_TobaccoCigarette.label>
+  <Jecs_TobaccoCigarette.description>Употребление сигарет может вызвать никотиновую зависимость. Могут быть скручены без какого-либо оборудования, на рабочем месте.</Jecs_TobaccoCigarette.description>
+  <Jecs_TobaccoCigarette.ingestible.ingestCommandString>Курить {0}</Jecs_TobaccoCigarette.ingestible.ingestCommandString>
+  <Jecs_TobaccoCigarette.ingestible.ingestReportString>Курит {0}.</Jecs_TobaccoCigarette.ingestible.ingestReportString>
+
+
+</LanguageData>

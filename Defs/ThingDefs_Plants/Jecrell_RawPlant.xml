@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThingDef ParentName="RoughPlantBase">
+    <defName>Jecs_TobaccoLeaves</defName>
+    <label>tobacco leaves</label>
+    <description>Raw cut leaves of a tobacco plant. Can be rolled into a smokeable cigarette at a crafting spot.</description>
+    <graphicData>
+      <texPath>Things/Item/Drug/Tobacco/Leaves/TobaccoLeaves</texPath>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.7</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>30</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <thingCategories>
+      <li>PlantMatter</li>
+    </thingCategories>
+  </ThingDef>
+
+
+</Defs>
